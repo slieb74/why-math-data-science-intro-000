@@ -39,4 +39,4 @@ So in summary:
 
 So moving along that loss function to approach the minimum in a structured way requires math, and derivatives.  
 
-The sections that follow will take a deep dive into mathematics and that will underly our future machine learning techniques.  Taking this exploration will allow us to understand our current machine learning model of gradient descent, as well how we can train other machine learning models in the future.
+The sections that follow will take a deep dive into mathematics and that will underly our future machine learning techniques.  Taking this exploratdion will allow us to understand our current machine learning model of gradient descent, as well how we can train other machine learning models in the future.
